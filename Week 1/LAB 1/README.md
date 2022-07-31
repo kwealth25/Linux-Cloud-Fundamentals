@@ -23,3 +23,10 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
 Quickstart for Bash in Azure Cloud Shell
 
 https://docs.microsoft.com/en-us/azure/cloud-shell/quickstart
+
+Lab 1 successfully done.
+using the azure cloud shell using line of code, i was able to create the resource group
+creat a virtual machine
+open port 80 for web traffic
+connect to the virtual machine 
+install webpage launched.
