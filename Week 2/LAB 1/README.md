@@ -16,4 +16,5 @@ Quickstart: Create a Linux VM
 https://aws.amazon.com/getting-started/launch-a-virtual-machine-B-0/
 Quickstart for AWS CloudShell
 
-https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.html
+https://docs.aws.amazon.com/cloudshell/latest/userguide/working-with-cloudshell.htm
+Lab was successfully done. i was able to lunch my cloud shell, create the instances, update the vm install and as well view the web page.
