@@ -24,3 +24,9 @@ https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-
 Create bootstrap actions to install additional software
 
 https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-bootstrap.html
+
+created linux vm
+coonected ssh via cli
+installed the apache webserver via cli
+started and checked the status via cli
+stopped the service.
